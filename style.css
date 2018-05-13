@@ -31,7 +31,7 @@
   #aside {
     margin-bottom: 10px; 
     float: right;
-    width: 49%;
+    width: 450px;
     background: #ebebeb; 
     height: 305px;
   }
@@ -39,7 +39,7 @@
   #section {
     float: left;
     background: #ebebeb; 
-    width: 50%;
+    width: 495px;
     margin-bottom: 10px;
   }
 
